@@ -1,0 +1,6 @@
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\bin\Debug\connection-tester.exe.config
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\bin\Debug\connection-tester.exe
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\bin\Debug\connection-tester.pdb
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\obj\Debug\connection-tester.csproj.CoreCompileInputs.cache
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\obj\Debug\connection-tester.exe
+C:\Hidequel-Puga\CFS\GitHub\Database\mssql-connection-tester\connection-tester\connection-tester\obj\Debug\connection-tester.pdb
